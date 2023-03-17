@@ -1,0 +1,5 @@
+name: CelesteBedWars
+version: '${project.version}'
+main: br.com.celeste.celestebedwars.CelesteBedWars
+commands:
+  escolhertime:
